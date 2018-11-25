@@ -1,7 +1,7 @@
 {
-  "name": "mohamed",
+  "name": "Foxxx",
   "version": "2.1.0",
-  "description": "-- AWESOMENESS --",
+  "description": "-- Foxxx --",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
@@ -33,7 +33,9 @@
     "snekfetch": "^3.6.4",
     "sqlite": "^2.9.1",
     "youtube-info": "^1.2.0",
-    "ytdl-core": "^0.20.2"
+    "ytdl-core": "^0.20.2",
+    "gif-search": "^2.0.1",
+    "simple-youtube-api": "^5.1.1"
   },
   "engines": {
     "node": "8.x"
